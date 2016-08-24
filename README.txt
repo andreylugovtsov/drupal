@@ -1,7 +1,7 @@
 
 CONTENTS OF THIS FILE
 ---------------------
-
+ * This is my custom fork
  * About Drupal
  * Configuration and features
  * Installation profiles
